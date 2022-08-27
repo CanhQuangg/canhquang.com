@@ -122,7 +122,6 @@ p {
     width: 120px;
   height: 120px;
   background-color: #1d89e6;
-  object-fit: none;
   object-position: center;
     max-width: 100%;
     -webkit-border-radius: 50%;
