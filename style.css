@@ -66,10 +66,9 @@ p {
 .profile-card {
     background: #FFB300;
     display: inline-block;
-    align-items: center;
     width: 56px;
     height: 56px;
-    position: relative;
+    position: absolute;
     left: 50%;
     top: 50%; 
     z-index: 2;
